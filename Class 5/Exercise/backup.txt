@@ -1,0 +1,3 @@
+Line 1: Welcome to python Programming
+Line 2: File handling is important for data management
+Line 3: Enjoy coding

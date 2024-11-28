@@ -1,0 +1,3 @@
+Python is great for data analysis.
+Exception handling makes codes robust.
+File handling is crucial for data storage.
